@@ -1,0 +1,8 @@
+[map "09736f9e-937f-3026-b9db-e80ffa0ced88"]
+	object = af5ccf2546d9c738404f1e8125811881c73bac4d
+	path = path1
+	type = expand module
+[map "a0fcef05-700f-338b-8aef-4ef7f957f23f"]
+	object = af5ccf2546d9c738404f1e8125811881c73bac4d
+	path = contrib/path2
+	type = expand module
